@@ -1,0 +1,30 @@
+# 🗞️ News Aggregator (PyQt5 Desktop App)
+
+A simple and beautiful desktop application built with PyQt5 that fetches and displays the latest headlines from top news sources like BBC, CNN, Reuters, The Guardian, and Al Jazeera using RSS feeds.
+
+![News Aggregator Screenshot](screenshots/home_view.png)
+
+---
+
+## 🚀 Features
+
+- Clean and responsive UI with custom styling
+- Fetch headlines from trusted sources via RSS
+- Supports multiple news outlets
+- Clickable links to read full articles
+- Simulated placeholder for local news
+
+---
+
+
+
+## 🧩 Requirements
+
+- Python 3.6+
+- PyQt5
+- feedparser
+
+Install requirements:
+
+
+pip install -r requirements.txt
