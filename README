@@ -2,7 +2,7 @@
 
 A simple and beautiful desktop application built with PyQt5 that fetches and displays the latest headlines from top news sources like BBC, CNN, Reuters, The Guardian, and Al Jazeera using RSS feeds.
 
-![App Screenshot](assets/news.png)
+![App Screenshot](/news.png)
 
 ---
 
